@@ -4,7 +4,7 @@ pandas
 pydantic
 tensorflow
 keras
-cv2
+opencv-python
 pil
 re
 uvicorn
