@@ -6,7 +6,7 @@ tensorflow
 keras
 opencv-python
 pillow
-re
+regex
 uvicorn
 h5py==2.10.0
 python-multipart
